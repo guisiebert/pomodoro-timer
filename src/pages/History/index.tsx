@@ -17,85 +17,113 @@ export function History() {
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='yellow'> Em Andamento </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='red'> Interrompido </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                     <tr>
                         <td>Conserto de débitos técnicos</td>
                         <td>25 minutos</td>
                         <td>Há 2 meses</td>
-                        <td><Status> Concluído </Status></td>
+                        <td>
+                            <Status statusColor='green'> Concluído </Status>
+                        </td>
                     </tr>
                 </table>
 
